@@ -1,3 +1,0 @@
-# GoJava
-My GOJava
-Hello
